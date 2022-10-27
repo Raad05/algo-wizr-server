@@ -1,0 +1,170 @@
+[
+    {
+        "_id": "1",
+        "category_id": "01",
+        "name": "HTML",
+        "details": "HTML Details"
+    },
+    {
+        "_id": "2",
+        "category_id": "01",
+        "name": "CSS",
+        "details": "CSS Details"
+    },
+    {
+        "_id": "3",
+        "category_id": "01",
+        "name": "Javascript",
+        "details": "Javascript Details"
+    },
+    {
+        "_id": "4",
+        "category_id": "01",
+        "name": "React.JS",
+        "details": "React.JS Details"
+    },
+    {
+        "_id": "5",
+        "category_id": "01",
+        "name": "Angular.JS",
+        "details": "Angular.JS Details"
+    },
+    {
+        "_id": "6",
+        "category_id": "01",
+        "name": "Vue.JS",
+        "details": "Vue.JS Details"
+    },
+    {
+        "_id": "7",
+        "category_id": "02",
+        "name": "Node.JS and Express.JS",
+        "details": "Node.JS and Express.JS Details"
+    },
+    {
+        "_id": "8",
+        "category_id": "02",
+        "name": "Firebase Authentication",
+        "details": "Firebase Authentication Details"
+    },
+    {
+        "_id": "9",
+        "category_id": "02",
+        "name": "MongoDB",
+        "details": "MongoDB details"
+    },
+    {
+        "_id": "10",
+        "category_id": "03",
+        "name": "Amazon Web Services",
+        "details": "AWS Details"
+    },
+    {
+        "_id": "11",
+        "category_id": "03",
+        "name": "Google Cloud",
+        "details": "GCloud details"
+    },
+    {
+        "_id": "12",
+        "category_id": "03",
+        "name": "Microsoft Azure",
+        "details": "MSAzure details"
+    },
+    {
+        "_id": "13",
+        "category_id": "03",
+        "name": "Docker and Kubernetes",
+        "details": "Docker and Kubernetes details"
+    },
+    {
+        "_id": "14",
+        "category_id": "04",
+        "name": "Solidity",
+        "details": "Solidity details"
+    },
+    {
+        "_id": "15",
+        "category_id": "04",
+        "name": "Smart Contracts",
+        "details": "SC details"
+    },
+    {
+        "_id": "16",
+        "category_id": "04",
+        "name": "Introduction to Cryptocurrency",
+        "details": "Crypto details"
+    },
+    {
+        "_id": "17",
+        "category_id": "05",
+        "name": "Python For Data Science",
+        "details": "Data Science details"
+    },
+    {
+        "_id": "18",
+        "category_id": "05",
+        "name": "Machine Learning with Python",
+        "details": "ML Python details"
+    },
+    {
+        "_id": "19",
+        "category_id": "05",
+        "name": "Learn R For Machine Learning",
+        "details": "R ML details"
+    },
+    {
+        "_id": "20",
+        "category_id": "06",
+        "name": "MySQL",
+        "details": "MySQL details"
+    },
+    {
+        "_id": "21",
+        "category_id": "06",
+        "name": "MariaDB",
+        "details": "MariaDB details"
+    },
+    {
+        "_id": "22",
+        "category_id": "06",
+        "name": "SQLite",
+        "details": "SQLite details"
+    },
+    {
+        "_id": "23",
+        "category_id": "06",
+        "name": "Oracle",
+        "details": "Oracle details"
+    },
+    {
+        "_id": "24",
+        "category_id": "07",
+        "name": "Java for Android App Development",
+        "details": "Java details"
+    },
+    {
+        "_id": "25",
+        "category_id": "07",
+        "name": "Kotlin for Android App Development",
+        "details": "Kotlin details"
+    },
+    {
+        "_id": "26",
+        "category_id": "07",
+        "name": "Swift for iOS App Development",
+        "details": "Swift details"
+    },
+    {
+        "_id": "27",
+        "category_id": "07",
+        "name": "Flutter Development",
+        "details": "Flutter details"
+    },
+    {
+        "_id": "28",
+        "category_id": "07",
+        "name": "React Native Development",
+        "details": "React Native details"
+    }
+]

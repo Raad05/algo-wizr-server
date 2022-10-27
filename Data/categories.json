@@ -1,0 +1,34 @@
+[
+    {
+        "id": "00",
+        "name": "All News"
+    },
+    {
+        "id": "01",
+        "name": "Frontend Web Development"
+    },
+    {
+        "id": "02",
+        "name": "Backend Web Development"
+    },
+    {
+        "id": "03",
+        "name": "DevOps"
+    },
+    {
+        "id": "04",
+        "name": "Blockchain"
+    },
+    {
+        "id": "05",
+        "name": "Machine Learning"
+    },
+    {
+        "id": "06",
+        "name": "Database Management Systems"
+    },
+    {
+        "id": "07",
+        "name": "Mobile App Development"
+    }
+]
