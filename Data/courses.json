@@ -3,42 +3,49 @@
         "_id": "1",
         "category_id": "01",
         "name": "HTML",
+        "thumbnail": "/Images/html.jpg",
         "details": "HTML Details"
     },
     {
         "_id": "2",
         "category_id": "01",
         "name": "CSS",
+        "thumbnail": "/Images/css.jpg",
         "details": "CSS Details"
     },
     {
         "_id": "3",
         "category_id": "01",
         "name": "Javascript",
+        "thumbnail": "/Images/js.jpg",
         "details": "Javascript Details"
     },
     {
         "_id": "4",
         "category_id": "01",
         "name": "React.JS",
+        "thumbnail": "/Images/react.jpg",
         "details": "React.JS Details"
     },
     {
         "_id": "5",
         "category_id": "01",
         "name": "Angular.JS",
+        "thumbnail": "/Images/angular.png",
         "details": "Angular.JS Details"
     },
     {
         "_id": "6",
         "category_id": "01",
         "name": "Vue.JS",
+        "thumbnail": "/Images/vue.png",
         "details": "Vue.JS Details"
     },
     {
         "_id": "7",
         "category_id": "02",
         "name": "Node.JS and Express.JS",
+        "thumbnail": "/Images/node.jpg",
         "details": "Node.JS and Express.JS Details"
     },
     {
@@ -51,12 +58,14 @@
         "_id": "9",
         "category_id": "02",
         "name": "MongoDB",
+        "thumbnail": "/Images/mongodb.jpg",
         "details": "MongoDB details"
     },
     {
         "_id": "10",
         "category_id": "03",
         "name": "Amazon Web Services",
+        "thumbnail": "/Images/aws.jpg",
         "details": "AWS Details"
     },
     {
@@ -69,18 +78,21 @@
         "_id": "12",
         "category_id": "03",
         "name": "Microsoft Azure",
+        "thumbnail": "/Images/azure.jpg",
         "details": "MSAzure details"
     },
     {
         "_id": "13",
         "category_id": "03",
-        "name": "Docker and Kubernetes",
-        "details": "Docker and Kubernetes details"
+        "name": "Kubernetes",
+        "thumbnail": "/Images/kubernetes.png",
+        "details": "Kubernetes details"
     },
     {
         "_id": "14",
         "category_id": "04",
         "name": "Solidity",
+        "thumbnail": "/Images/blockchain.jpg",
         "details": "Solidity details"
     },
     {
@@ -93,18 +105,21 @@
         "_id": "16",
         "category_id": "04",
         "name": "Introduction to Cryptocurrency",
+        "thumbnail": "/Images/crypto.png",
         "details": "Crypto details"
     },
     {
         "_id": "17",
         "category_id": "05",
         "name": "Python For Data Science",
+        "thumbnail": "/Images/data science.jpg",
         "details": "Data Science details"
     },
     {
         "_id": "18",
         "category_id": "05",
         "name": "Machine Learning with Python",
+        "thumbnail": "/Images/ml.jpg",
         "details": "ML Python details"
     },
     {
@@ -117,6 +132,7 @@
         "_id": "20",
         "category_id": "06",
         "name": "MySQL",
+        "thumbnail": "/Images/mysql.png",
         "details": "MySQL details"
     },
     {
@@ -135,18 +151,21 @@
         "_id": "23",
         "category_id": "06",
         "name": "Oracle",
+        "thumbnail": "/Images/oracle.jpg",
         "details": "Oracle details"
     },
     {
         "_id": "24",
         "category_id": "07",
         "name": "Java for Android App Development",
+        "thumbnail": "/Images/java.png",
         "details": "Java details"
     },
     {
         "_id": "25",
         "category_id": "07",
         "name": "Kotlin for Android App Development",
+        "thumbnail": "/Images/kotlin.jpg",
         "details": "Kotlin details"
     },
     {
