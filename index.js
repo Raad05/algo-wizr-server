@@ -5,6 +5,9 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
+const categories = require('./Data/categories.json');
+const courses = require('./Data/courses.json');
+
 app.get('/', (req, res) => {
     res.send('Server is active.');
 });
