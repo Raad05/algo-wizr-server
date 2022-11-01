@@ -4,6 +4,8 @@
         "category_id": "01",
         "name": "HTML",
         "thumbnail": "https://wallpapercave.com/wp/wp2885478.jpg",
+        "price": "19.99",
+        "enrolled": "15,000",
         "details": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions."
     },
     {
@@ -11,6 +13,8 @@
         "category_id": "01",
         "name": "CSS",
         "thumbnail": "https://wallpapercave.com/dwp1x/wp2742433.jpg",
+        "price": "19.99",
+        "enrolled": "15,000",
         "details": "CSS (Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is with a simple syntax example and also covers some key terms about the language."
     },
     {
@@ -18,6 +22,8 @@
         "category_id": "01",
         "name": "Javascript",
         "thumbnail": "https://wallpapercave.com/dwp1x/wp2465927.jpg",
+        "price": "19.99",
+        "enrolled": "15,000",
         "details": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
     },
     {
@@ -25,6 +31,8 @@
         "category_id": "01",
         "name": "React.JS",
         "thumbnail": "https://wallpapercave.com/dwp1x/wp2465923.jpg",
+        "price": "19.99",
+        "enrolled": "15,000",
         "details": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes."
     },
     {
@@ -32,6 +40,8 @@
         "category_id": "01",
         "name": "Angular.JS",
         "thumbnail": "https://wallpapercave.com/wp/wp5722053.png",
+        "price": "19.99",
+        "enrolled": "15,000",
         "details": "AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write. And it all happens within the browser, making it an ideal partner with any server technology."
     },
     {
@@ -39,6 +49,8 @@
         "category_id": "01",
         "name": "Vue.JS",
         "thumbnail": "https://wallpapercave.com/dwp1x/wp7134560.jpg",
+        "price": "19.99",
+        "enrolled": "15,000",
         "details": "Vue is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS and JavaScript, and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be it simple or complex."
     },
     {
@@ -46,6 +58,8 @@
         "category_id": "02",
         "name": "Node.JS and Express.JS",
         "thumbnail": "https://wallpapercave.com/wp/wp6606906.jpg",
+        "price": "29.99",
+        "enrolled": "17,000",
         "details": "React and Node. js are two of the most popular open-source JavaScript frameworks, but they differ in their approach to a number of tasks. For example, while React is mostly used for building websites and user interfaces, Node enables developers to build server-side code."
     },
     {
@@ -53,6 +67,8 @@
         "category_id": "02",
         "name": "Firebase Authentication",
         "thumbnail": "https://firebase.google.com/images/social.png",
+        "price": "29.99",
+        "enrolled": "17,000",
         "details": "Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, phone numbers, popular federated identity providers like Google, Facebook and Twitter, and more."
     },
     {
@@ -60,6 +76,8 @@
         "category_id": "02",
         "name": "MongoDB",
         "thumbnail": "https://wallpapercave.com/wp/wp8724894.png",
+        "price": "29.99",
+        "enrolled": "17,000",
         "details": "Get your ideas to market faster with a developer data platform built on the leading modern database. Support transactional, search, analytics, and mobile use cases while using a common query interface and the data model developers love."
     },
     {
@@ -67,6 +85,8 @@
         "category_id": "03",
         "name": "Amazon Web Services",
         "thumbnail": "https://wallpapercave.com/dwp1x/wp10474411.jpg",
+        "price": "39.99",
+        "enrolled": "19,000",
         "details": "Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. Millions of customers—including the fastest-growing startups, largest enterprises, and leading government agencies—are using AWS to lower costs, become more agile, and innovate faster."
     },
     {
@@ -74,6 +94,8 @@
         "category_id": "03",
         "name": "Google Cloud Platform",
         "thumbnail": "https://i.pcmag.com/imagery/reviews/02yVL9f8Jw1atwoG6sgFZDH-7..v1569482492.jpg",
+        "price": "39.99",
+        "enrolled": "19,000",
         "details": "Google Cloud Platform (GCP), offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, Google Drive, and YouTube. Alongside a set of management tools, it provides a series of modular cloud services including computing, data storage, data analytics and machine learning. Registration requires a credit card or bank account details."
     },
     {
@@ -81,6 +103,8 @@
         "category_id": "03",
         "name": "Microsoft Azure",
         "thumbnail": "https://wallpapercave.com/dwp1x/wp3734333.jpg",
+        "price": "39.99",
+        "enrolled": "19,000",
         "details": "The Azure cloud platform is more than 200 products and cloud services designed to help you bring new solutions to life—to solve today’s challenges and create the future. Build, run, and manage applications across multiple clouds, on-premises, and at the edge, with the tools and frameworks of your choice."
     },
     {
@@ -88,6 +112,8 @@
         "category_id": "03",
         "name": "Kubernetes",
         "thumbnail": "https://wallpapercave.com/wp/wp10034193.png",
+        "price": "39.99",
+        "enrolled": "19,000",
         "details": "Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications."
     },
     {
@@ -95,6 +121,8 @@
         "category_id": "04",
         "name": "Solidity",
         "thumbnail": "https://wallpapercave.com/dwp1x/wp2337016.jpg",
+        "price": "49.99",
+        "enrolled": "21,000",
         "details": "Solidity is a curly-bracket language designed to target the Ethereum Virtual Machine (EVM). It is influenced by C++, Python and JavaScript. You can find more details about which languages Solidity has been inspired by in the language influences section."
     },
     {
@@ -102,6 +130,8 @@
         "category_id": "04",
         "name": "Smart Contracts",
         "thumbnail": "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_smart_contract.jpg",
+        "price": "49.99",
+        "enrolled": "21,000",
         "details": "A smart contract is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code. The code and the agreements contained therein exist across a distributed, decentralized blockchain network."
     },
     {
@@ -109,6 +139,8 @@
         "category_id": "04",
         "name": "Introduction to Cryptocurrency",
         "thumbnail": "https://wallpapercave.com/dwp1x/wp2322138.png",
+        "price": "49.99",
+        "enrolled": "21,000",
         "details": "Cryptocurrency is a digital payment system that doesn't rely on banks to verify transactions. It's a peer-to-peer system that can enable anyone anywhere to send and receive payments. Instead of being physical money carried around and exchanged in the real world, cryptocurrency payments exist purely as digital entries to an online database describing specific transactions. When you transfer cryptocurrency funds, the transactions are recorded in a public ledger. Cryptocurrency is stored in digital wallets."
     },
     {
@@ -116,6 +148,8 @@
         "category_id": "05",
         "name": "Python For Data Science",
         "thumbnail": "https://wallpapercave.com/dwp1x/wp4748438.jpg",
+        "price": "59.99",
+        "enrolled": "23,000",
         "details": "Data science is an essential part of many industries today, given the massive amounts of data that are produced, and is one of the most debated topics in IT circles. Its popularity has grown over the years, and companies have started implementing data science techniques to grow their business and increase customer satisfaction."
     },
     {
@@ -123,12 +157,16 @@
         "category_id": "05",
         "name": "Machine Learning with Python",
         "thumbnail": "https://wallpapercave.com/dwp1x/wp3205204.jpg",
+        "price": "59.99",
+        "enrolled": "23,000",
         "details": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy."
     },
     {
         "_id": "19",
         "category_id": "05",
         "name": "Learn R For Machine Learning",
+        "price": "59.99",
+        "enrolled": "23,000",
         "thumbnail": "https://media.geeksforgeeks.org/wp-content/uploads/20210629203642/MachineLearningwithR.png",
         "details": "Machine learning is a branch in computer science that studies the design of algorithms that can learn. Typical machine learning tasks are concept learning, function learning or “predictive modeling”, clustering and finding predictive patterns. These tasks are learned through available data that were observed through experiences or instructions, for example. Machine learning hopes that including the experience into its tasks will eventually improve the learning. The ultimate goal is to improve the learning in such a way that it becomes automatic, so that humans like ourselves do not need to interfere any more."
     },
@@ -137,12 +175,16 @@
         "category_id": "06",
         "name": "MySQL",
         "thumbnail": "https://wallpapercave.com/wp/wp7551845.png",
+        "price": "69.99",
+        "enrolled": "25,000",
         "details": "MySQL is one of the most recognizable technologies in the modern big data ecosystem. Often called the most popular database and currently enjoying widespread, effective use regardless of industry, it's clear that anyone involved with enterprise data or general IT should at least aim for a basic familiarity of MySQL."
     },
     {
         "_id": "21",
         "category_id": "06",
         "name": "MariaDB",
+        "price": "69.99",
+        "enrolled": "25,000",
         "thumbnail": "https://images.velog.io/images/swchoi0329/post/e2d5945a-6ed8-42b4-89b8-4ef90c9c737c/-2019-12-06-9.44.36.png",
         "details": "MariaDB Server is one of the most popular open source relational databases. It's made by the original developers of MySQL and guaranteed to stay open source. It is part of most cloud offerings and the default in most Linux distributions."
     },
@@ -150,6 +192,8 @@
         "_id": "22",
         "category_id": "06",
         "name": "SQLite",
+        "price": "69.99",
+        "enrolled": "25,000",
         "thumbnail": "https://www.howtogeek.com/wp-content/uploads/csit/2021/08/6bfe96c5.jpeg?height=200p&trim=2,2,2,2&crop=16:9",
         "details": "SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. SQLite is the most used database engine in the world. SQLite is built into all mobile phones and most computers and comes bundled inside countless other applications that people use every day."
     },
@@ -158,6 +202,8 @@
         "category_id": "06",
         "name": "Oracle",
         "thumbnail": "https://wallpapercave.com/dwp1x/wp2079221.jpg",
+        "price": "69.99",
+        "enrolled": "25,000",
         "details": "Oracle is a product from Oracle corporation that provides a relational database management system. RDBMS supports any kind of data model. It has different product editions, including Standard Edition, Enterprise Edition, Express Edition, and Personal Edition. Oracle products are scalable and secure, with high-performance ability."
     },
     {
@@ -165,6 +211,8 @@
         "category_id": "07",
         "name": "Java for Android App Development",
         "thumbnail": "https://wallpapercave.com/dwp1x/wp6933338.jpg",
+        "price": "79.99",
+        "enrolled": "27,000",
         "details": "Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc."
     },
     {
@@ -172,6 +220,8 @@
         "category_id": "07",
         "name": "Kotlin for Android App Development",
         "thumbnail": "https://wallpapercave.com/wp/wp8476357.jpg",
+        "price": "79.99",
+        "enrolled": "27,000",
         "details": "Kotlin has great support and many contributors in its fast-growing global community. Enjoy the benefits of a rich ecosystem with a wide range of community libraries. Help is never far away consult extensive community resources or ask the Kotlin team directly."
     },
     {
@@ -179,12 +229,16 @@
         "category_id": "07",
         "name": "Swift for iOS App Development",
         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNhJh33gvYPIVt4DX2fgAju9Nk3MyiOOx2g&usqp=CAU",
+        "price": "79.99",
+        "enrolled": "27,000",
         "details": "Swift is a powerful and intuitive programming language for iOS, iPadOS, macOS, tvOS, and watchOS. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design and produces software that runs lightning-fast."
     },
     {
         "_id": "27",
         "category_id": "07",
         "name": "Flutter Development",
+        "price": "79.99",
+        "enrolled": "27,000",
         "thumbnail": "https://uploads-ssl.webflow.com/5f841209f4e71b2d70034471/60bb4a2e143f632da3e56aea_Flutter%20app%20development%20(2).png",
         "details": "Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase."
     },
@@ -193,6 +247,8 @@
         "category_id": "07",
         "name": "React Native Development",
         "thumbnail": "https://www.futuremind.com/m/articles/none/react_native_vs_native_apps_kJeZgPh.png",
+        "price": "79.99",
+        "enrolled": "27,000",
         "details": "React Native lets you create truly native apps and doesn't compromise your users' experiences. It provides a core set of platform agnostic native components like View, Text, and Image that map directly to the platform's native UI building blocks."
     }
 ]
