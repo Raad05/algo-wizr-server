@@ -15,6 +15,7 @@ const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology:
 const run = async () => {
     try {
         const userCollection = client.db('mongodbCRUD').collection('courses');
+        const orderCollection = client.db('mongodbCRUD').collection('orders');
 
         app.get('/course-categories', (req, res) => {
             res.send(categories);
@@ -47,10 +48,34 @@ const run = async () => {
             const result = await userCollection.findOne(query);
             res.send(result);
         });
-    }
-    finally {
 
+        app.post('/orders', async (req, res) => {
+            const order = req.body;
+            const result = await orderCollection.insertOne(order);
+            res.send(result);
+        });
+
+        app.get('/orders', async (req, res) => {
+            let query = {};
+            if (req.query.customer) {
+                query = {
+                    customer: req.query.customer
+                }
+            }
+            const cursor = orderCollection.find(query);
+            const orders = await cursor.toArray();
+            res.send(orders);
+        });
+
+        app.delete('/orders/:id', async (req, res) => {
+            const id = req.params.id;
+            const query = { _id: ObjectId(id) };
+            const result = await orderCollection.deleteOne(query);
+            console.log(result);
+            res.send(result);
+        });
     }
+    finally { }
 }
 
 run().catch(error => console.log(error));
